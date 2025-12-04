@@ -20,12 +20,15 @@ All labs follow the same structure:
 ```
 /
 ├── Lab7/
-│ ├── .. 
-  ├── calc.cpp  
-  ├── main.cpp  
-  ├── student.cpp  
-  ├── student.h  
-└── README.md  
+│ ├── bankAccount.cpp
+│ ├── complex.cpp
+│ ├── stack.cpp
+│ ├── main.cpp
+│ └── *.exe / *.o ← compiled output
+├── Lab8/ ← will be added later
+├── Lab9/
+├── Lab10/
+└── Lab11/ 
 ```
 
 This keeps the code modular and easy to expand as new labs are added.
