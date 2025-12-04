@@ -5,13 +5,22 @@ Each lab focuses on a specific Object-Oriented Programming concept such as class
 
 ---
 
-## 📌 Labs Included
+## 📌 Labs Overview
 
-### ✅ **Lab 7 – Classes & Encapsulation**
-- Creating basic classes with private attributes  
-- Constructors & setters/getters  
-- Simple display functions  
-- Working with objects and arrays of objects  
+### ✅ Lab 7 – Classes & Basic OOP  
+This lab focuses on practicing:
+- Creating classes with private attributes  
+- Constructors, setters, and getters  
+- Operator overloading (e.g., Complex numbers)  
+- Basic bank account simulation  
+- Simple stack implementation using classes  
+
+**Files included in Lab7:**  
+- `bankAccount.cpp`  
+- `complex.cpp`  
+- `stack.cpp`  
+- `main.cpp`  
+- Executable files (`.exe`) generated after compilation  
 
 ---
 
@@ -31,21 +40,16 @@ All labs follow the same structure:
 └── Lab11/ 
 ```
 
-This keeps the code modular and easy to expand as new labs are added.
-
----
-
-## 🛠️ Topics Covered
+## 🧰 Technologies Used
+- C++  
 - Classes & Objects  
 - Encapsulation  
-- Constructors  
-- Basic OOP structure (header + source + main)
-
-(When new labs are added, this section will grow gradually.)
+- Operator Overloading  
+- Basic Data Structures  
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
 **Mohanad Tarek (Honda)**  
 OOP Labs – ITI Program
 
