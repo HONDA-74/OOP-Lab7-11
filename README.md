@@ -17,4 +17,33 @@ Each lab focuses on a specific Object-Oriented Programming concept such as class
 
 ## 📂 Project Structure
 All labs follow the same structure:
+```
+/
+├── Lab7/
+│ ├── .. 
+  ├── calc.cpp  
+  ├── main.cpp  
+  ├── student.cpp  
+  ├── student.h  
+└── README.md  
+```
+
+This keeps the code modular and easy to expand as new labs are added.
+
+---
+
+## 🛠️ Topics Covered
+- Classes & Objects  
+- Encapsulation  
+- Constructors  
+- Basic OOP structure (header + source + main)
+
+(When new labs are added, this section will grow gradually.)
+
+---
+
+## 👨‍💻 Author
+**Mohanad Tarek (Honda)**  
+OOP Labs – ITI Program
+
 
