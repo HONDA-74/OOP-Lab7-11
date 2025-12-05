@@ -76,3 +76,19 @@ It includes:
 └── Lab11/ ← coming soon
 ```
 
+---
+
+## 🧰 Technologies Used
+- C++  
+- Classes & Objects  
+- Encapsulation  
+- Operator Overloading  
+- Basic Data Structures  
+- Multi-file Compilation  
+
+---
+
+## 👨‍💻 Author
+**Mohanad Tarek (Honda)**  
+OOP Labs – ITI Program  
+
