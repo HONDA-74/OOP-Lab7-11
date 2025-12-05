@@ -51,4 +51,28 @@ It includes:
 ---
 
 ## 📂 Project Structure
+```
+/
+├── Lab7/
+│ ├── bankAccount.cpp
+│ ├── complex.cpp
+│ ├── stack.cpp
+│ ├── main.cpp
+│ └── *.exe / *.o
+│
+├── Lab8/
+│ ├── bankAccount.cpp
+│ ├── bankAccount.exe
+│ ├── complex.cpp
+│ ├── complex.exe
+│ ├── main.cpp
+│ ├── main.exe
+│ ├── main.o
+│ ├── stack.cpp
+│ └── stack.exe
+│
+├── Lab9/ ← coming soon
+├── Lab10/ ← coming soon
+└── Lab11/ ← coming soon
+```
 
