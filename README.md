@@ -92,3 +92,11 @@ Lab 9 introduces more advanced OOP concepts:
 │ ├── main2.exe
 │ └── main.o
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Mohanad Tarek (Honda)**  
+OOP Labs – ITI Training
+
