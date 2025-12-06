@@ -65,4 +65,30 @@ Lab 9 introduces more advanced OOP concepts:
 ---
 
 ## 📂 Project Structure
-
+```
+/
+├── Lab7/
+│ ├── bankAccount.cpp
+│ ├── complex.cpp
+│ ├── stack.cpp
+│ ├── main.cpp
+│ └── *.exe / *.o
+│
+├── Lab8/
+│ ├── bankAccount.cpp
+│ ├── bankAccount.exe
+│ ├── complex.cpp
+│ ├── complex.exe
+│ ├── main.cpp
+│ ├── main.exe
+│ ├── main.o
+│ ├── stack.cpp
+│ └── stack.exe
+│
+├── Lab9/
+│ ├── main.cpp
+│ ├── main2.cpp
+│ ├── main.exe
+│ ├── main2.exe
+│ └── main.o
+```
