@@ -63,6 +63,52 @@ Lab 9 introduces more advanced OOP concepts:
 - `main.o`
 
 ---
+## 🔷 Lab 10 – Simple Graphics Library (Drawing Shapes)
+
+Lab 10 focuses on implementing a lightweight graphics engine in C++ that draws basic shapes on a console window using OOP principles:
+
+- Classes & Header/Source separation
+
+- Encapsulation
+
+- Simple drawing API
+
+- Handling shapes using functions
+
+- Structuring a multi-file project (cpp, h, layout, depend…)
+
+**Features:**
+
+Drawing lines
+
+Drawing rectangles
+
+Drawing circles
+
+Rendering simple 2D shapes
+
+**Files included:**
+
+- Inside Lab10/:
+
+- `main.cpp`
+
+- `main.exe`
+
+- `main.o`
+
+Inside Lab10/SimpleGraphics/:
+
+- `SimpleGraphics.cpp`
+
+- `SimpleGraphics.h`
+
+- `SimpleGraphics.cbp`
+
+- `SimpleGraphics.layout`
+
+- `SimpleGraphics.depend`
+---
 
 ## 📂 Project Structure
 ```
