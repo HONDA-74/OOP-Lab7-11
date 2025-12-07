@@ -79,17 +79,17 @@ Lab 10 focuses on implementing a lightweight graphics engine in C++ that draws b
 
 **Features:**
 
-Drawing lines
+- Drawing lines
 
-Drawing rectangles
+- Drawing rectangles
 
-Drawing circles
+- Drawing circles
 
-Rendering simple 2D shapes
+- Rendering simple 2D shapes
 
 **Files included:**
 
-- Inside Lab10/:
+Inside Lab10/:
 
 - `main.cpp`
 
@@ -114,29 +114,43 @@ Inside Lab10/SimpleGraphics/:
 ```
 /
 ├── Lab7/
-│ ├── bankAccount.cpp
-│ ├── complex.cpp
-│ ├── stack.cpp
-│ ├── main.cpp
-│ └── *.exe / *.o
+│   ├── bankAccount.cpp
+│   ├── complex.cpp
+│   ├── stack.cpp
+│   ├── main.cpp
+│   └── *.exe / *.o
 │
 ├── Lab8/
-│ ├── bankAccount.cpp
-│ ├── bankAccount.exe
-│ ├── complex.cpp
-│ ├── complex.exe
-│ ├── main.cpp
-│ ├── main.exe
-│ ├── main.o
-│ ├── stack.cpp
-│ └── stack.exe
+│   ├── bankAccount.cpp
+│   ├── bankAccount.exe
+│   ├── complex.cpp
+│   ├── complex.exe
+│   ├── main.cpp
+│   ├── main.exe
+│   ├── main.o
+│   ├── stack.cpp
+│   └── stack.exe
 │
 ├── Lab9/
-│ ├── main.cpp
-│ ├── main2.cpp
-│ ├── main.exe
-│ ├── main2.exe
-│ └── main.o
+│   ├── main.cpp
+│   ├── main2.cpp
+│   ├── main.exe
+│   ├── main2.exe
+│   └── main.o
+│
+├── Lab10/
+│   ├── main.cpp
+│   ├── main.exe
+│   ├── main.o
+│   └── SimpleGraphics/
+│       ├── SimpleGraphics.cpp
+│       ├── SimpleGraphics.h
+│       ├── SimpleGraphics.cbp
+│       ├── SimpleGraphics.layout
+│       ├── SimpleGraphics.depend
+│       ├── bin/Debug/
+│       └── obj/Debug/
+
 ```
 
 ---
