@@ -109,6 +109,42 @@ Inside Lab10/SimpleGraphics/:
 
 - `SimpleGraphics.depend`
 ---
+## 🔶 Lab 11 – Advanced Inheritance & Polymorphism (Shapes Library)
+
+Lab 11 focuses on building a complete geometric shapes framework using **inheritance**, **abstract classes**,  
+**virtual functions**, and **polymorphism**.  
+It demonstrates how OOP concepts scale when designing reusable mini-libraries.
+
+### **📌 Concepts Covered**
+- Abstract classes & pure virtual functions  
+- Hierarchical & multilevel inheritance  
+- Virtual methods & overriding  
+- Polymorphism using base-class pointers  
+- Sorting objects polymorphically by area  
+- Operator overloading (assignment operator)  
+- Dynamic memory handling with pointers & vectors  
+
+### **📐 Shapes Implemented**
+- Rectangle  
+- Square  
+- Circle  
+- Triangle (Heron's Formula)  
+- Rhombus  
+- Cube (3D extension of Square)  
+
+### **✨ Main Features**
+- Compute area, perimeter, and volume (for 3D shapes)  
+- Display shape information with overridden `printShape()`  
+- Compare shapes by area using virtual functions  
+- Sort a vector of base-class pointers (`Geoshape*`)  
+- Demonstrate deep copy using the assignment operator  
+
+### **📁 Files Included (Lab11/)**
+- `main.cpp`  
+- `main.exe`  
+- `main.o`
+  
+---
 
 ## 📂 Project Structure
 ```
