@@ -186,6 +186,10 @@ It demonstrates how OOP concepts scale when designing reusable mini-libraries.
 │       ├── SimpleGraphics.depend
 │       ├── bin/Debug/
 │       └── obj/Debug/
+├── Lab11/
+│   ├── main.cpp
+│   ├── main.exe
+│   └── main.o
 
 ```
 
